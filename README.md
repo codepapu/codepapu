@@ -13,19 +13,39 @@
 
 ---
 
-### Papu is a Liferay Expert & Tinker.
+<div align="left">
 
-For me, Liferay isn't about **knowing everything**; it's about exploring, experimenting, and slowly decoding its DNA — one console error at a time.
+<sub><strong>// PAPU, IN HIS OWN WORDS</strong></sub>
 
-I like to clone ideas, remix patterns, and reshape them into something cleaner, simpler, and a little more thoughtful. *(the boring kind of magic)*
+<br />
 
-Most of what I learn comes from curiosity — and the rest from things that ~~crashed in production~~ **failed**, but still taught me something useful.
+<h3>Papu is a Liferay Expert &amp; Tinker.</h3>
 
-This isn't a ~~portfolio~~ **tinker's notebook**. It's where I test ideas, push limits, and collect small wins.
+<p>
+For me, Liferay isn't about <strong>knowing everything</strong>; it's about exploring, experimenting, and slowly decoding its DNA — one console error at a time.
+</p>
 
-**Don't judge me by interviews — judge me by what I build when I'm enjoying the process.**
+<p>
+I like to clone ideas, remix patterns, and reshape them into something cleaner, simpler, and a little more thoughtful. <em>The boring kind of magic.</em>
+</p>
 
-— *papu*
+<p>
+Most of what I learn comes from curiosity — and the rest from things that failed, but still taught me something useful.
+</p>
+
+<p>
+This isn't a portfolio. It's a <strong>tinker's notebook</strong> — where I test ideas, push limits, and collect small wins.
+</p>
+
+<p>
+<strong>Don't judge me by interviews — judge me by what I build when I'm enjoying the process.</strong>
+</p>
+
+<p align="right">
+<em>— papu</em>
+</p>
+
+</div>
 
 ---
 
