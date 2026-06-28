@@ -4,7 +4,7 @@
 
 <br />
 
-**Hyderabad, India · UTC+5:30** · [codepapu.in](https://codepapu.in/) · 4+ years shipping Liferay & Spring solutions
+**Hyderabad, India · UTC+5:30** · [codepapu.in](https://codepapu.in/) · Liferay DXP · Spring · Client Extensions
 
 <br />
 
@@ -19,14 +19,12 @@
 
 ## About
 
-Software Engineer with **4+ years** building **Liferay DXP (7.3/7.4)**, **Spring Boot**, and **full-stack** enterprise portals — **OSGi modules**, **Headless APIs**, and **React Client Extensions** across **government**, **insurance**, **municipal**, and **life sciences** domains.
+Software Engineer building **Liferay DXP (7.3/7.4)** enterprise portals — **OSGi modules**, **Headless APIs**, **Spring Boot**, and **React Client Extensions** across **government**, **insurance**, **municipal**, and **life sciences** domains.
 
 > Boring on purpose. Fast in production. Built to outlast three Liferay upgrades.
 
 | | |
 | :--- | :--- |
-| **Currently** | Liferay DXP · React Client Extensions · AI assistants on DXP |
-| **Focus** | Performance, clean architecture, measurable outcomes |
 | **Wins** | **40%** app perf gain · **25%** faster API response time |
 | **Domains** | UAE Government data platforms · Insurance · BMC civic portals · OrthoTraining LMS · OrciMed life sciences |
 
@@ -54,52 +52,6 @@ Software Engineer with **4+ years** building **Liferay DXP (7.3/7.4)**, **Spring
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Featured work
-
-<details open>
-<summary><strong>Enterprise delivery</strong></summary>
-<br />
-
-| Project | Domain | Stack |
-| :--- | :--- | :--- |
-| **Dubai Data Platform** | UAE Government | Liferay DXP 7.4 · React CE · Headless APIs · OSGi |
-| **Insurance Policy Portal** | Insurance | Liferay 7.3 · REST · MySQL · Chart.js |
-| **BMC Housing Subsidy** | Municipal / civic | Liferay 7.3 · Oracle · workflows |
-| **[OrthoTraining](https://www.orthotraining.com/)** | LMS | Liferay · SOAP · Sakai integration |
-| **[OrciMed](https://orcimedlifesciences.com/)** | Life sciences | Liferay · bulk import/export · Chart.js |
-| **[HelpThoughts](https://helpthoughts.com)** | Company site | React · Tailwind · shadcn/ui · PWA |
-
-</details>
-
-<details>
-<summary><strong>Workbench — shipping & building</strong></summary>
-<br />
-
-| Project | Status | Notes |
-| :--- | :---: | :--- |
-| **Lyfre** | shipping | Permission-aware AI chat for Liferay DXP — Groq + Headless tools |
-| **PortalX** | building | Enterprise Liferay workspace · Client Extensions · workflows |
-| **code.papu** | shipping | [codepapu.in](https://codepapu.in/) — Next.js portfolio & Liferay playbook |
-| **Aarogya Health** | building | Healthcare portal on Liferay 7.4 |
-| **AidLink** | building | Hyper-local help network · Spring Boot microservices |
-
-</details>
-
-<details>
-<summary><strong>Open labs (public repos)</strong></summary>
-<br />
-
-| Repo | Description |
-| :--- | :--- |
-| [**aichatbot-workspace**](https://github.com/codepapu/aichatbot-workspace) | Liferay 7.4 AI assistant — Client Extensions, Spring Boot, Ollama |
-| [**liferay-object-headless-importer**](https://github.com/codepapu/liferay-object-headless-importer) | Headless object import tooling |
-| [**liferay-dxp-theme-workspace-poc**](https://github.com/codepapu/liferay-dxp-theme-workspace-poc) | shadcn/ui v4 portal theming on DXP 2026.q1 |
-| [**seo-sitemap**](https://github.com/codepapu/seo-sitemap) | OSGi sitemap.org XML generator for Liferay DXP |
-
-</details>
 
 ---
 
@@ -136,17 +88,5 @@ Completed **30+ official Liferay Learn courses** across Architect, Developer, Co
 <br />
 
 *Open to Liferay DXP, Spring Boot, and full-stack collaboration.*
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Numbers, not vibes. Ship the smallest thing that proves it.</sub>
-
-<br /><br />
-
-![Profile views](https://komarev.com/ghpvc/?username=codepapu&color=6366f1&style=flat-square&label=Profile+views)
 
 </div>
