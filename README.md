@@ -29,14 +29,6 @@ This isn't a ~~portfolio~~ **tinker's notebook**. It's where I test ideas, push 
 
 ---
 
-## Liferay Learn
-
-Completed **30+ official Liferay Learn courses** across Architect, Developer, Commerce Administrator, Content Manager, and Practitioner tracks — Client Extensions, Headless APIs, Objects, Commerce, and enterprise site delivery.
-
-[Browse Liferay Learn →](https://learn.liferay.com/education/courses)
-
----
-
 ## GitHub activity
 
 <div align="center">
