@@ -4,10 +4,46 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-codepapu.in-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://codepapu.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-codepapu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codepapu/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-codepapu-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27236242/codepapu)
-[![Email](https://img.shields.io/badge/Email-code.papu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:code.papu@gmail.com)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://codepapu.in/" target="_blank" rel="noopener noreferrer" title="Portfolio">
+        <img src="https://cdn.simpleicons.org/safari/6366F1" height="36" width="36" alt="Portfolio" />
+      </a>
+      <br />
+      <sub><strong>Portfolio</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/codepapu/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" width="36" alt="LinkedIn" />
+      </a>
+      <br />
+      <sub><strong>LinkedIn</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://stackoverflow.com/users/27236242/codepapu" target="_blank" rel="noopener noreferrer" title="Stack Overflow">
+        <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="36" width="36" alt="Stack Overflow" />
+      </a>
+      <br />
+      <sub><strong>Stack Overflow</strong></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:code.papu@gmail.com" title="Email">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" height="36" width="36" alt="Email" />
+      </a>
+      <br />
+      <sub><strong>Email</strong></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <a href="https://codepapu.in/" target="_blank"><strong>codepapu.in</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:code.papu@gmail.com"><strong>code.papu@gmail.com</strong></a>
+</p>
 
 </div>
 
