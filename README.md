@@ -38,12 +38,8 @@ This isn't a portfolio. It's a <strong>tinker's notebook</strong> — where I te
 
 ---
 
-## GitHub activity
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codepapu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codepapu&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub streak" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepapu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codepapu&bg_color=0d1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true&custom_title=Contributions&radius=8" alt="Contributions" width="100%" />
 
 </div>
