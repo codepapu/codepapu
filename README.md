@@ -4,10 +4,6 @@
 
 <br />
 
-**Hyderabad, India · UTC+5:30** · [codepapu.in](https://codepapu.in/) · Liferay DXP · Spring · Client Extensions
-
-<br />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-codepapu.in-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://codepapu.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-codepapu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codepapu/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-codepapu-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27236242/codepapu)
@@ -17,41 +13,19 @@
 
 ---
 
-## About
+### Papu is a Liferay Expert & Tinker.
 
-Software Engineer building **Liferay DXP (7.3/7.4)** enterprise portals — **OSGi modules**, **Headless APIs**, **Spring Boot**, and **React Client Extensions** across **government**, **insurance**, **municipal**, and **life sciences** domains.
+For me, Liferay isn't about **knowing everything**; it's about exploring, experimenting, and slowly decoding its DNA — one console error at a time.
 
-> Boring on purpose. Fast in production. Built to outlast three Liferay upgrades.
+I like to clone ideas, remix patterns, and reshape them into something cleaner, simpler, and a little more thoughtful. *(the boring kind of magic)*
 
-| | |
-| :--- | :--- |
-| **Wins** | **40%** app perf gain · **25%** faster API response time |
-| **Domains** | UAE Government data platforms · Insurance · BMC civic portals · OrthoTraining LMS · OrciMed life sciences |
+Most of what I learn comes from curiosity — and the rest from things that ~~crashed in production~~ **failed**, but still taught me something useful.
 
----
+This isn't a ~~portfolio~~ **tinker's notebook**. It's where I test ideas, push limits, and collect small wins.
 
-## Stack
+**Don't judge me by interviews — judge me by what I build when I'm enjoying the process.**
 
-**Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Liferay DXP](https://img.shields.io/badge/Liferay_DXP-007CFF?style=flat-square&logo=liferay&logoColor=white)
-![OSGi](https://img.shields.io/badge/OSGi-000000?style=flat-square)
-![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
-
-**Data & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+— *papu*
 
 ---
 
